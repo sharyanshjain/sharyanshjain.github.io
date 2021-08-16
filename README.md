@@ -1,3 +1,3 @@
 # sharyanshjain.github.io
 
-CSS in 44 minutes :)
+CSS in 44 minutes | Jeremy Thomas :)
